@@ -1,0 +1,61 @@
+#beginner > li{padding-top:10px}
+#tab-2 .btn{margin-bottom:5px}
+#report_ad{margin-top:5px;}
+#report_ad > a{padding:2px 5px 2px 5px;margin-right:5px;}
+/*
+.comment-content.discard{color:#b0b0b0;}
+@media(min-width: 800px){
+	#flexnav{overflow:hidden;white-space:nowrap;}
+	#flexnav li{display:inline-block;float:none;}
+}
+*/
+.grecaptcha-badge { visibility: hidden; }
+.text-muted,.tab-content{overflow-wrap: break-word;}
+html{margin-right: 0 !important;overflow: visible !important;}
+header.main-white .flexnav > li ul li.active > a {background: #d31996;color: #fff !important;}
+header.main-white .flexnav > li ul li.active > a:hover{background:#d31996;color:#fff;}
+footer.main a{color:#999;}
+.mfp-wrap{z-index:1501;}
+.nav-tabs.nav-stacked.nav-coupon-category > li:hover ul{display:block;}
+.nav-tabs.nav-stacked.nav-coupon-category > li > ul{display:none;position:absolute;left:100%;top:-1px;list-style:none;width:200px;padding:0;z-index:99;-webkit-box-shadow:0 3px 1px rgba(0,0,0,0.15);box-shadow:0 3px 1px rgba(0,0,0,0.15);}
+.nav-tabs.nav-stacked.nav-coupon-category > li > ul a{background:#fff;color:#666;display:block;padding:10px 15px 10px 25px;border-top:1px solid #d9d9d9;transition:all 0.3s ease 0s;}
+.nav-tabs.nav-stacked.nav-coupon-category > li > ul a:hover{padding-left:35px;}
+.nav-tabs.nav-stacked.nav-coupon-category > li.active > a{z-index:90;}
+.nav-tabs.nav-stacked.nav-coupon-category > li.active ul li.active > a{padding-left:35px;}
+.product-thumb .product-inner{padding:20px 5px;}
+.star-rating > li.selected{color:#d31996;}
+.star-rating > li.hovered{color:#d31996;}
+.product-location{border:0;margin-top:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.thumb-list > li img{height:100px;width:90px;}
+.hidden-over-flow{overflow:hidden;}
+.footer-copyright p{text-align:center;}
+.search-area select{display:block;font-family:'Roboto', arial, helvetica, sans-serif;line-height:30px;font-size:19px;height:30px;margin-bottom:0;background:none;background-color:#d31996;border:none;-webkit-box-shadow:none;box-shadow:none;color:#fff;-webkit-appearance:textfield;-moz-appearance:textfield;appearance:textfield;padding:0;}
+@media(max-width:992px){.title-hero{font-size:100px;line-height:100px;}
+.search-area select{height:55px;}
+.col-md-9.pull-right + .col-md-3{clear:both;}
+.my-box-logo{padding:15px 0;}
+.nav-tabs.nav-stacked.nav-coupon-category.nav-coupon-category-left > li > ul{position:static;width:100%;margin-bottom:10px;display:none;}
+.text-hero{font-size:25px;}
+.my-select{margin-top:15px;}
+.product-text{text-align:center;}
+.first .product-desciption{margin-top:10px;}
+.choose-city{margin-top:15px;font-size:16px;}
+}
+.product-thumb-horizontal .product-header .product-time, .product-thumb .product-header .product-time{margin:0 auto;position:absolute;left:0;right:0;bottom:10px;background:rgba(0, 0, 0, 0.7);color:#fff;font-weight:200;padding:5px 0;border-radius:3px;max-width:80%;}
+.product-thumb-horizontal .product-title a,.product-thumb .product-title a{color:#4d4d4d;overflow:hidden;display:block;position:relative;}
+.product-thumb{cursor:pointer;}
+.product-thumb-horizontal .product-header,.product-thumb .product-header{position:relative;text-align:center;}
+.product-thumb-horizontal .product-header img,.product-thumb .product-header img{height:197px;}
+@media(max-width:992px){
+.col-md-9 .row-wrap .col-md-3{width:33%;float:left;}
+}
+@media(max-width:570px){
+.col-md-9 .row-wrap .col-md-3{width:50%;}
+}
+@media(max-width:400px){
+.col-md-9 .row-wrap .col-md-3{width:100%;}
+}
+.product-thumb-horizontal .product-header,.product-thumb .product-header:hover .product-social-list{opacity:1;visibility:visible;}
+.product-thumb-horizontal .product-header .product-time,.product-thumb .product-header .product-time{margin:0 auto;position:absolute;left:0;right:0;bottom:10px;background:rgba(0, 0, 0, 0.7);color:#fff;font-weight:200;padding:5px 0;border-radius:3px;max-width:80%;}
+.ui-autocomplete-loading{background:white url("../images/loading.gif") right center no-repeat;}
+.ui-menu-item-wrapper.ui-state-active{background: #2f96b4;border: none !important;}
